@@ -1,3 +1,4 @@
+proxies:
 - {"name":"🇸🇬 SG_350","server":"3.0.19.102","type":"ss","country":"🇸🇬 SG","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
 - {"name":"🇸🇬 SG_351","server":"18.141.240.110","type":"ss","country":"🇸🇬 SG","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
 - {"name":"🇸🇬 SG_352","server":"54.179.241.46","type":"ss","country":"🇸🇬 SG","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
